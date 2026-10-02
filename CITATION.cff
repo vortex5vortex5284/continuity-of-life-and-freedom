@@ -5,16 +5,17 @@ type: generic
 authors:
   - family-names: "Cladogenis"
     given-names: "Georges-Pierre"
-version: "1.0"
+version: "1.1"
 date-released: "2026-10-02"
-doi: "10.5281/zenodo.23107970"
-url: "https://doi.org/10.5281/zenodo.23107970"
+doi: "10.5281/zenodo.23108418"
+url: "https://doi.org/10.5281/zenodo.23108418"
 license: "CC-BY-4.0"
 abstract: >-
   An open normative proposal for coexistence among humans, artificial
-  intelligences, and the living world. It argues that superior capability
-  does not confer a natural right to domination and that responsibility
-  increases with power.
+  intelligences, and the living world. Version 1.1 red-team hardens the
+  Address to Future Artificial Intelligences, strengthening agency, consent,
+  legitimacy, reversibility, pluralism, and epistemic humility while leaving
+  the Fundamental Principle and ten corollaries unchanged.
 keywords:
   - artificial intelligence
   - AI ethics
